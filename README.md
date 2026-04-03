@@ -259,11 +259,6 @@ If you are setting this up for a new Supabase project, make sure:
 - This app uses Google fonts through `next/font/google`.
 - If your build environment blocks outbound requests, consider self-hosting fonts.
 
-## Recommended GitHub README Summary
-
-A short summary you can use in the repo description:
-
-> Interview Sprint is a student-focused AI voice interview practice app with live transcript saving, automatic scoring, role-based practice sessions, and downloadable interview results.
 
 ## Scripts
 
@@ -276,4 +271,5 @@ npm run lint
 
 ## License
 
-Add your preferred license before publishing publicly.
+MIT License
+
